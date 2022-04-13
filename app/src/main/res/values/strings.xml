@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AddTwoNumber</string>
+    <string name="button">Summation</string>
+    <string name="result">result will shown here</string>
+</resources>
